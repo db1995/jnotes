@@ -1,0 +1,10 @@
+- **curriculum** ---- n. 课程
+- **curricula** ---- n. 课程(curriculum的复数形式)
+- **semester** ---- n. 学期
+- **norm** ---- n. 常态; 规范; 标准
+- **ideal** ---- adj. 理想的 ---- n. 理想
+- **stage** ---- n. 阶段; 步骤; 舞台 ---- v. 举行; 组织
+- **partway** ---- adv. 一定程度上; 部分地
+- **parallel** ---- adj. 平行的; 并行的
+- **comprise** ---- vt. 包含; 由...组成
+- **instructor** ---- n. 指导书; 指导者
