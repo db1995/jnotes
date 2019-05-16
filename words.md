@@ -14,3 +14,17 @@
 - **outcome** ---- n. 结果; 成果
 - **emerging** ---- adj. 新兴的 ---- v. 形成; 浮现
 - **life-cycle** ---- n. 生命周期
+- **objective** ---- adj. 客观的; 目标的 ---- n. 目的; 目标
+- **paradigm** ---- n. 范例
+- **implication** ---- n. 含义; 影响
+- **distinguish** ---- v. 区分
+- **adhere** ---- v. 坚持; 依附
+- **idiot** ---- n. 笨蛋
+- **executive** ---- adj. 行政的 ---- n. 经理
+- **toss** ---- v. 投 ---- n. 投掷
+- **accompany** ---- v. 伴随
+- **hint** ---- n. 暗示 ---- v. 暗示
+- **forthright** ---- adj. 直率的 ---- adv. 直率地
+- **threaten** ---- v. 威胁
+- **manner** ---- n. 方式; 习惯
+- **maniacal** ---- adj. 疯狂的
