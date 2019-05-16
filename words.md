@@ -6,5 +6,11 @@
 - **stage** ---- n. 阶段; 步骤; 舞台 ---- v. 举行; 组织
 - **partway** ---- adv. 一定程度上; 部分地
 - **parallel** ---- adj. 平行的; 并行的
-- **comprise** ---- vt. 包含; 由...组成
+- **comprise** ---- v. 包含; 由...组成
 - **instructor** ---- n. 指导书; 指导者
+- **material** ---- adj. 重要的 ---- n. 材料; 原料
+- **omit** ---- v. 省略
+- **counterintuitive** ---- adj. 违反直觉的
+- **outcome** ---- n. 结果; 成果
+- **emerging** ---- adj. 新兴的 ---- v. 形成; 浮现
+- **life-cycle** ---- n. 生命周期
