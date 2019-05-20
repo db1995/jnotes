@@ -1,0 +1,13 @@
+- **docker version** ---- 显示Docker版本信息
+- **docker pull [OPTIONS] NAME[:TAG|@DIGEST]** ---- 从注册中心拉取镜像或仓库
+- **docker run [OPTIONS] IMAGE [COMMAND] [ARG...]** ---- 启动容器
+- **docker ps [OPTIONS]** ---- 显示所有容器
+- **docker inspect [OPTIONS] NAME|ID [NAME|ID...]** ---- 返回Docker对象的底层信息
+- **docker diff CONTAINER** ---- 检查容器文件系统上文件或目录的更改
+- **docker logs [OPTIONS] CONTAINER** ---- 获取容器的日志
+- **docker stop [OPTIONS] CONTAINER [CONTAINER...]** ---- 停止一个或多个正在运行的容器
+- **docker start [OPTIONS] CONTAINER [CONTAINER...]** ---- 启动一个或多个停止的容器
+- **docker commit [OPTIONS] CONTAINER [REPOSITORY[:TAG]]** ---- 根据更改过后的容器创建一个镜像
+- **docker rmi [OPTIONS] IMAGE [IMAGE...]** ---- 删除一个或多个镜像
+- **docker search [OPTIONS] TERM** ---- 在Docker中心搜索镜像
+- **docker kill [OPTIONS] CONTAINER [CONTAINER...]** ---- 杀死一个或多个正在运行的容器
