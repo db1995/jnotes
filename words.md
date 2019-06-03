@@ -34,3 +34,17 @@
 - **process** ---- n. 过程 ---- v. 处理
 - **shield** ---- n. 盾; 保护者 ---- v. 避开; 防御
 - **separation** ---- n. 分离
+- **preceding** ---- adj. 之前的
+- **reside** ---- v. 居住; 属于
+- **corresponding** ---- adj. 相应的; 一致的
+- **counterintuitive** ---- adj. 违反直觉的
+- **semantics** ---- n. 语义论
+- **prescribe** ---- v. 规定
+- **exhibit** ---- n. 展览品; 证据 ---- v. 展出; 显示
+- **mechanism** ---- n. 机制; 进程
+- **isolation** ---- n. 隔离
+- **implicitly** ---- adv. 含蓄地; 暗中地
+- **arbitrary** ---- adj. 任意的
+- **ambiguity** ---- n. 含糊
+- **compatibility** ---- n. 兼容性
+- **applicability** ---- n. 适用性
