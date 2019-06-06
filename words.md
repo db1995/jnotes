@@ -48,3 +48,13 @@
 - **ambiguity** ---- n. 含糊
 - **compatibility** ---- n. 兼容性
 - **applicability** ---- n. 适用性
+- **philosophy** ---- n. 哲理
+- **embrace** ---- n. 拥抱 ---- v. 拥抱
+- **architectures** ---- n. 架构
+- **embedded** ---- adj. 嵌入式的
+- **workload** ---- n. 工作量
+- **diverse** ---- adj. 不同的; 多种多样的
+- **persistence** ---- n. 持续; 存留
+- **flux** ---- n. 流量 ---- v. 流出
+- **jigsaw** ---- n. 拼图玩具
+- **manifest** ---- v. 表明 ---- adj. 显然的 ---- adv. 显然地
